@@ -70,21 +70,21 @@ void onHandleMsg(Object msgInfo) {
                         String path = cacheDir + "/img.png";
                         download(url, path, null, new PluginCallBack.DownloadCallback() {
                             public void onSuccess(File file) {
-                                sendImage(getTargetTalker(), file.getAbsolutePath());
+                                sendImage(msgInfo.getTalker(), file.getAbsolutePath());
                                 file.delete();
                             }
                         });
                     } else {
-                        sendText(getTargetTalker(), "没画出来……再试试呢");
+                        sendText(msgInfo.getTalker(), "没画出来……再试试呢");
                     }
 
                 } else {
-                    sendText(getTargetTalker(), "不太会画……再试试呢");
+                    sendText(msgInfo.getTalker(), "不太会画……再试试呢");
                 }
             }
         });
 
-        sendText(getTargetTalker(), "小喵作画中……");
+        sendText(msgInfo.getTalker(), "小喵作画中……");
     }
 }
 
