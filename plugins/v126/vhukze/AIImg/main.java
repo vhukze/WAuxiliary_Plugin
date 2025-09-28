@@ -29,7 +29,7 @@ String model = "Kwai-Kolors/Kolors";
 // “768x1024”（3：4）
 // “720x1440”（1：2）
 // “720x1280”（9：16）
-String imageSize = "1024x1024";
+String imageSize = "1328x1328";
 Map<String, Object> headers = new HashMap<>();
 Map<String, Object> params = new HashMap<>();
 
@@ -57,7 +57,7 @@ void onHandleMsg(Object msgInfo) {
                 if (respCode == 200) {
 
                     // 获取images数组
-                    JSONArray imagesArray = json.getJSONArray("images");
+                    JSONArray imagesArray = jsonObject.getJSONArray("images");
 
                     // 检查数组是否有元素
                     if (imagesArray.length() > 0) {
