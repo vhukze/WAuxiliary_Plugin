@@ -135,5 +135,5 @@ features:
     link: https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/old/冰块/艾特关键词自动回复
 
   - title: AI作图@vhukze
-    details: 支持群聊私聊艾特和关键词触发AI作图。默认触发词：小喵画画：或小喵画画:
+    details: 支持群聊私聊艾特和关键词触发AI作图。默认触发词：`小喵画画：`或`小喵画画:`
     link: https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/vhukze/AIImg
