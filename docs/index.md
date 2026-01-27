@@ -6,6 +6,18 @@ hero:
   text: "WAuxiliary 插件"
 
 features:
+  - title: 自动收款@。。
+    details: 版本 1.1.0 | 更新于 20251226
+    link: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/。。/自动收款
+
+  - title: 音频转换@。。
+    details: 版本 1.0.0 | 更新于 20251218
+    link: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/。。/音频转换
+
+  - title: 自动增加步数@Wukon
+    details: 版本 1.0.5 | 更新于 20251211
+    link: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/Wukon/AutoStep
+
   - title: AI作图@vhukze
     details: 版本 1.5.0 | 更新于 20251013
     link: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/vhukze/AIImg
@@ -13,10 +25,6 @@ features:
   - title: 表情合成@Kyo
     details: 版本 1.0.0 | 更新于 20251010
     link: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/Kyo/EmojiKitchen
-
-  - title: 自动增加步数@Wukon
-    details: 版本 1.0.4 | 更新于 20251010
-    link: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/Wukon/AutoStep
 
   - title: 每日新闻@Wukon
     details: 版本 1.0.0 | 更新于 20251010
