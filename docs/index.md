@@ -6,6 +6,10 @@ hero:
   text: "WAuxiliary 插件"
 
 features:
+  - title: AI文字转语音@vhukze
+    details: 版本 1.0.0 | 更新于 20260303
+    link: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/vhukze/AITextToVoice
+
   - title: 关键词通知@。。
     details: 版本 1.0.0 | 更新于 20260302
     link: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/HdShare/WAuxiliary_Plugin/tree/main/plugins/v126/。。/关键词通知
