@@ -6,25 +6,49 @@ hero:
   text: "WAuxiliary 插件"
 
 features:
+  - title: 微信密友@桀翕
+    details: 版本 1.0.0 | 更新于 20260509
+    link: https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FHdShare%2FWAuxiliary_Plugin%2Ftree%2Fmain%2Fplugins%2Fv127%2F%E6%A1%80%E7%BF%95%2F%E5%BE%AE%E4%BF%A1%E5%AF%86%E5%8F%8B&filename=%E5%BE%AE%E4%BF%A1%E5%AF%86%E5%8F%8B_1.0.0
+
+  - title: 元启Ai回复@神明佑我
+    details: 版本 2.1 | 更新于 20260508
+    link: https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FHdShare%2FWAuxiliary_Plugin%2Ftree%2Fmain%2Fplugins%2Fv127%2FAAZl3l4%2FYuanQiAiReply&filename=%E5%85%83%E5%90%AFAi%E5%9B%9E%E5%A4%8D_2.1
+
+  - title: 群管助手@Alickra
+    details: 版本 1.0.0 | 更新于 20260505
+    link: https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FHdShare%2FWAuxiliary_Plugin%2Ftree%2Fmain%2Fplugins%2Fv127%2FAlickra%2F%E7%BE%A4%E7%AE%A1%E5%8A%A9%E6%89%8B&filename=%E7%BE%A4%E7%AE%A1%E5%8A%A9%E6%89%8B_1.0.0
+
+  - title: Hook示例插件@Hd
+    details: 版本 1.0.3 | 更新于 20260505
+    link: https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FHdShare%2FWAuxiliary_Plugin%2Ftree%2Fmain%2Fplugins%2Fv127%2FHd%2FHookDemo&filename=Hook%E7%A4%BA%E4%BE%8B%E6%8F%92%E4%BB%B6_1.0.3
+
+  - title: 自定义通知配置版@。。&周杰伦
+    details: 版本 1.3.1 | 更新于 20260505
+    link: https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FHdShare%2FWAuxiliary_Plugin%2Ftree%2Fmain%2Fplugins%2Fv127%2F%E3%80%82%E3%80%82%2F%E8%87%AA%E5%AE%9A%E4%B9%89%E9%80%9A%E7%9F%A5%E9%85%8D%E7%BD%AE%E7%89%88&filename=%E8%87%AA%E5%AE%9A%E4%B9%89%E9%80%9A%E7%9F%A5%E9%85%8D%E7%BD%AE%E7%89%88_1.3.1
+
+  - title: 关键词通知@。。
+    details: 版本 2.0.0 | 更新于 20260504
+    link: https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FHdShare%2FWAuxiliary_Plugin%2Ftree%2Fmain%2Fplugins%2Fv127%2F%E3%80%82%E3%80%82%2F%E5%85%B3%E9%94%AE%E8%AF%8D%E9%80%9A%E7%9F%A5&filename=%E5%85%B3%E9%94%AE%E8%AF%8D%E9%80%9A%E7%9F%A5_2.0.0
+
+  - title: TIAX文转音（DC）@Datamaniac Chaser
+    details: 版本 3.6 | 更新于 20260503
+    link: https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FHdShare%2FWAuxiliary_Plugin%2Ftree%2Fmain%2Fplugins%2Fv127%2FDatamaniac%20Chaser%2Ftiax%E6%96%87%E8%BD%AC%E9%9F%B3&filename=TIAX%E6%96%87%E8%BD%AC%E9%9F%B3%EF%BC%88DC%EF%BC%89_3.6
+
+  - title: 智能绘图@Hd
+    details: 版本 1.0.0 | 更新于 20260429
+    link: https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FHdShare%2FWAuxiliary_Plugin%2Ftree%2Fmain%2Fplugins%2Fv127%2FHd%2FOpenAiDraw&filename=%E6%99%BA%E8%83%BD%E7%BB%98%E5%9B%BE_1.0.0
+
   - title: 自动抢红包(模拟手动抢版)@。。
     details: 版本 1.0.2 | 更新于 20260429
     link: https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FHdShare%2FWAuxiliary_Plugin%2Ftree%2Fmain%2Fplugins%2Fv127%2F%E3%80%82%E3%80%82%2F%E8%87%AA%E5%8A%A8%E6%8A%A2%E7%BA%A2%E5%8C%85(%E6%A8%A1%E6%8B%9F%E6%89%8B%E5%8A%A8%E6%8A%A2%E7%89%88)&filename=%E8%87%AA%E5%8A%A8%E6%8A%A2%E7%BA%A2%E5%8C%85(%E6%A8%A1%E6%8B%9F%E6%89%8B%E5%8A%A8%E6%8A%A2%E7%89%88)_1.0.2
 
-  - title: 自定义通知配置版@。。&周杰伦
-    details: 版本 1.1.0 | 更新于 20260429
-    link: https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FHdShare%2FWAuxiliary_Plugin%2Ftree%2Fmain%2Fplugins%2Fv127%2F%E3%80%82%E3%80%82%2F%E8%87%AA%E5%AE%9A%E4%B9%89%E9%80%9A%E7%9F%A5%E9%85%8D%E7%BD%AE%E7%89%88&filename=%E8%87%AA%E5%AE%9A%E4%B9%89%E9%80%9A%E7%9F%A5%E9%85%8D%E7%BD%AE%E7%89%88_1.1.0
-
-  - title: 元启Ai回复@神明佑我
-    details: 版本 1.9.1 | 更新于 20260428
-    link: https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FHdShare%2FWAuxiliary_Plugin%2Ftree%2Fmain%2Fplugins%2Fv127%2FAAZl3l4%2FYuanQiAiReply&filename=%E5%85%83%E5%90%AFAi%E5%9B%9E%E5%A4%8D_1.9.1
+  - title: AI绘图助手@坤
+    details: 版本 1.0.0 | 更新于 20260428
+    link: https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FHdShare%2FWAuxiliary_Plugin%2Ftree%2Fmain%2Fplugins%2Fv127%2F%E5%9D%A4%2FAI%E7%BB%98%E5%9B%BE%E5%8A%A9%E6%89%8B&filename=AI%E7%BB%98%E5%9B%BE%E5%8A%A9%E6%89%8B_1.0.0
 
   - title: ChatLab@Hd
     details: 版本 1.0.0 | 更新于 20260427
     link: https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FHdShare%2FWAuxiliary_Plugin%2Ftree%2Fmain%2Fplugins%2Fv127%2FHd%2FChatLab&filename=ChatLab_1.0.0
-
-  - title: XpHook示例插件@Hd
-    details: 版本 1.0.2 | 更新于 20260427
-    link: https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FHdShare%2FWAuxiliary_Plugin%2Ftree%2Fmain%2Fplugins%2Fv127%2FHd%2FXpHookDemo&filename=XpHook%E7%A4%BA%E4%BE%8B%E6%8F%92%E4%BB%B6_1.0.2
 
   - title: 表情合成@Kyo
     details: 版本 1.0.2 | 更新于 20260427
@@ -101,10 +125,6 @@ features:
   - title: 进退群配置版@。。
     details: 版本 2.3.3 | 更新于 20260424
     link: https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FHdShare%2FWAuxiliary_Plugin%2Ftree%2Fmain%2Fplugins%2Fv127%2F%E3%80%82%E3%80%82%2F%E8%BF%9B%E9%80%80%E7%BE%A4%E9%85%8D%E7%BD%AE%E7%89%88&filename=%E8%BF%9B%E9%80%80%E7%BE%A4%E9%85%8D%E7%BD%AE%E7%89%88_2.3.3
-
-  - title: 关键词通知@。。
-    details: 版本 1.1.0 | 更新于 20260412
-    link: https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FHdShare%2FWAuxiliary_Plugin%2Ftree%2Fmain%2Fplugins%2Fv127%2F%E3%80%82%E3%80%82%2F%E5%85%B3%E9%94%AE%E8%AF%8D%E9%80%9A%E7%9F%A5&filename=%E5%85%B3%E9%94%AE%E8%AF%8D%E9%80%9A%E7%9F%A5_1.1.0
 
   - title: 分组管理@。。
     details: 版本 1.1.1 | 更新于 20260411
